@@ -1,0 +1,90 @@
+h2	{
+	color : blue; 
+	font-family: Arial
+	}
+
+body{
+	text-align: 
+		center;
+		background: #005AA7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFDE4, #005AA7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	}
+
+ol{
+	text-align: 
+		center
+	}
+
+.frame {
+
+background: white;
+border: dashed 10px #9BA4B5;
+border-radius : 100px;
+margin: 30px;
+box-shadow:10px 10px 10px pink; 
+
+}
+
+.frame2 {
+background: white;
+border: dashed 10px ;
+border-radius : 100px;
+margin: 30px;
+box-shadow:10px 10px 10px pink; 
+      }
+
+.avatar	{
+	width: 250px;
+	height:250px;
+	border-radius:60%;
+	object-fit: cover;
+	box-shadow: 10px 10px 10px grey;		
+
+}
+
+.galery{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 300px
+}
+
+.maps{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+}
+
+.logo{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+	object-fit: cover;
+
+}
+
+.mynavbar{
+	background-color: yellow;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+
+.links{
+	margin-right: 30px;
+
+}
+
+.logo{
+	margin-left: 30PX;
+
+
+}
+
+
+
+
